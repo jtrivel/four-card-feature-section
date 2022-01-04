@@ -1,0 +1,30 @@
+@use 'variables' as v;
+@use 'mixins' as m;
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: v.$lightGray;
+  font-size: 1.5rem;
+  font-family: v.$primaryFont;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  @include m.desktop { 
+    align-items:center;
+    justify-content: center;
+  }
+}
+
+.container {
+  padding: 5rem 2rem;
+  max-width: 140rem;
+  width: 95%;
+  margin-inline: auto;
+  @include m.desktop { 
+    padding:0;
+  }
+}
