@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/chat-app-css-illustration-with-solution-with-grid-and-flexbox-p_fvPSVt5)
-- Live Site URL: [Live Site URL](https://fylo-data-storage-component0001.netlify.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/four-card-feature-section-solution-with-grid-and-flexbox-9Ukh-KBop)
+- Live Site URL: [Live Site URL](https://four-card-feature-section0001.netlify.app/)
 
 ### Built with
 - SASS
